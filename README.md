@@ -66,3 +66,14 @@ Enjoy!
 If this project help you reduce time to develop, you can give me a cup of coffee :) 
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)] (https://www.paypal.com/donate?business=jurij.kostasenko%40o2online.de&currency_code=EUR)
+
+
+
+##NOTE:
+- for Windows you can try the Cygwin Project
+  https://www.cygwin.com/
+
+- for Android you can try the Termux Project
+  https://termux.com/
+
+- for maxOS s. https://learn.perl.org/installing/osx.html
