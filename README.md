@@ -41,19 +41,20 @@ and you get:
 If <./asg2svg.pl> not running, check your Perl installation and set the installation path in the "head line" of <asg2svg.pl>.
 
 default "head line" ist:
-
+```
 #!/usr/bin/perl -w
-
+```
 you can change it to:
-
+```
 eval 'exec perl -S $0 ${1+"$@"}'
                 if 0;
-
+```
 to find Perl automatically
 
 or set the path: e.g.
-
+```
 #!/usr/local/bin/perl -w
+```
 to your installation.
 
 
