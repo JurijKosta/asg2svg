@@ -62,11 +62,6 @@ to your installation.
 Enjoy!
 
 
-## Donation
-If this project help you reduce time to develop, you can give me a cup of coffee :) 
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)] (https://www.paypal.com/donate?business=jurij.kostasenko%40o2online.de&currency_code=EUR)
-
 
 
 ### NOTE:
@@ -77,3 +72,22 @@ If this project help you reduce time to develop, you can give me a cup of coffee
   https://termux.com/
 
 - for maxOS s. https://learn.perl.org/installing/osx.html
+
+
+
+
+
+
+
+## Donation
+If this project help you reduce time to develop, you can give me a cup of coffee :) 
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)] (https://www.paypal.com/donate?business=jurij.kostasenko%40o2online.de&currency_code=EUR)
+
+
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="business" value="jurij.kostasenko@o2online.de" />
+<input type="hidden" name="currency_code" value="EUR" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_DE/i/scr/pixel.gif" width="1" height="1" />
+</form>![QR Code](https://user-images.githubusercontent.com/83160429/116001231-b78c6700-a5f3-11eb-9052-7d6f93c82a8c.png)
