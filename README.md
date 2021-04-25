@@ -61,7 +61,8 @@ Enjoy!
 
 ## Donation
 If this project help you reduce time to develop, you can give me a cup of coffee :) 
-```
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](jurij.kostasenko@o2online.de)
-```
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](jurij.kostasenko@o2online.de)
+
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)]
+
+https://www.paypal.com/donate?business=jurij.kostasenko%40o2online.de&currency_code=EUR
